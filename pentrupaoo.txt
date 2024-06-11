@@ -1,0 +1,7 @@
+id,den_p,val_spec,den_s,den_c,cant_p,suma_f,data_f,nume_a,functie_a,locatie_a,data_p,nr_ore_po,loc_cli,adresa_cli
+2,pian,500,clape,lemn,corzi,clasic,300,1500,2023-12-02,Ana,casier,Galati,2023-11-02,4,Galati,Dambovitei Nr 6
+4,pian,500,clape,lemn,corzi,clasic,300,1500,2023-12-02,Ana,casier,Galati,2023-11-02,4,Galati,Dambovitei Nr 6
+5,test,100,ceva,test,1,300,2023-05-29,ceva,ceva,tceva,2023-05-29,1,ceva,testceva
+6,pian,500,clape,lemn,corzi,clasic,300,1500,2023-12-02,Ana,casier,Galati,2023-11-02,4,Galati,Dambovitei Nr 6
+7,pian,500,clape,lemn,corzi,clasic,300,1500,2023-12-02,Ana,casier,Galati,2023-11-02,4,Galati,Dambovitei Nr 6
+8,test,100,ceva,test,1,300,2023-05-29,ceva,ceva,tceva,2023-05-29,1,ceva,testceva
